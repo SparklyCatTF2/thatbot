@@ -11,8 +11,8 @@ Content-Type: application/json
 
 |Parameter name|Parameter value|
 |--------------|---------------|
-|scope (str)   |login          |
-
+|scope (str)   |value          |
+|token (str)   |value          |
 
 |Scopes|
 |------|
